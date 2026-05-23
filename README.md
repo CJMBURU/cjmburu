@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="YOUR_BANNER_LINK_HERE" />
+</p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6A5ACD&lines=AI+%26+Computer+Vision+Student;Python+Developer;Zindi+Ambassador;Building+ML+Projects)](https://git.io/typing-svg)
 # Hi, I'm CJ 👋✨
 
