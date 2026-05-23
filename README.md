@@ -14,13 +14,9 @@
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cjmburu&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=cjmburu&show_icons=true&cache_seconds=0" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjmburu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjmburu&layout=compact&cache_seconds=0" />
 
 
 
