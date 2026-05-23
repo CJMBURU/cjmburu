@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6A5ACD&lines=AI+%26+Computer+Vision+Student;Python+Developer;Zindi+Ambassador;Building+ML+Projects)](https://git.io/typing-svg)
 # Hi, I'm CJ 👋✨
 
 🎓 Student passionate about Artificial Intelligence, Computer Vision, and Machine Learning  
@@ -6,6 +7,10 @@
 📊 Exploring Data Science, Deep Learning, and AI systems  
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CJMBURUE&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CJMBURU&layout=compact&theme=tokyonight)
+
 
 ## 🚀 What I'm Working On
 - 🎒 Smart Bag Detection System (Computer Vision)
@@ -52,3 +57,5 @@
 ---
 
 ⭐ *Building, learning, and growing one project at a time.*
+
+
