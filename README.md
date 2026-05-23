@@ -7,9 +7,15 @@
 📊 Exploring Data Science, Deep Learning, and AI systems  
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CJMBURUE&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CJMBURU&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CJMBURU&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CJMBURU&layout=compact&theme=tokyonight" />
+</p>
 
 
 ## 🚀 What I'm Working On
