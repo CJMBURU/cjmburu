@@ -1,8 +1,10 @@
 <p align="center">
   <img src="Black and Blue Futuristic Technology Banner Landscape.png" />
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6A5ACD&lines=AI+%26+Computer+Vision+Student;Python+Developer;Zindi+Ambassador;Building+ML+Projects)](https://git.io/typing-svg)
-# Hi, I'm CJ 👋✨
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6A5ACD&lines=AI+%26+Computer+Vision+Student;Python+Developer;Zindi+Ambassador;Machine+Learning+Explorer)](https://git.io/typing-svg)
+
+# Hi, I'm Cynthia 👋✨
 
 🎓 Student passionate about Artificial Intelligence, Computer Vision, and Machine Learning  
 🌍 Zindi Ambassador  
