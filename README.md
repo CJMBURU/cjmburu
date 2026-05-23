@@ -12,13 +12,7 @@
 📊 Exploring Data Science, Deep Learning, and AI systems  
 
 ---
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=cjmburu&show_icons=true&cache_seconds=0" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjmburu&layout=compact&cache_seconds=0" />
-
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cjmburu&show_icons=true&theme=radical" />
 
 ## 🚀 What I'm Working On
 - ⚽ AI Sports Detection & Player Tracking
