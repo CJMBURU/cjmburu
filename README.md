@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" />
+  <img src="Black and Blue Futuristic Technology Banner Landscape.png" />
 </p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6A5ACD&lines=AI+%26+Computer+Vision+Student;Python+Developer;Zindi+Ambassador;Building+ML+Projects)](https://git.io/typing-svg)
 # Hi, I'm CJ 👋✨
