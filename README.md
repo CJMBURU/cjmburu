@@ -12,11 +12,19 @@
 📊 Exploring Data Science, Deep Learning, and AI systems  
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cjmburu&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjmburu&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 
 
 ## 🚀 What I'm Working On
-- 🎒 Smart Bag Detection System (Computer Vision)
 - ⚽ AI Sports Detection & Player Tracking
 - 📈 Machine Learning mini-projects
 - 🧠 Learning Deep Learning & PyTorch
